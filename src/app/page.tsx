@@ -1,8 +1,5 @@
 import Link from 'next/link';
 import { Button } from '@/components/ui/button';
-
-import Link from 'next/link';
-import { Button } from '@/components/ui/button';
 import ProductCard from '@/components/products/product-card';
 import { mockProducts } from '@/services/productService';
 
